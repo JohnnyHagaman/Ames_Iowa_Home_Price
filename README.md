@@ -4,4 +4,4 @@ This project is based on the kaggle competition to predict home prices in Ames I
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-In this particular project I focused on honing my linear regression and feature engineering techniques.
+In this particular project I focused on honing my linear regression and feature engineering skills to reduce the Root Mean Squared Error of my home price predictions.
